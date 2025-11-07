@@ -1,8 +1,8 @@
-<!-- Banner at Top -->
+<!-- Banner at Top 
 <p align="center">
   <img src="https://github.com/3huvnesh/3huvnesh/blob/main/Banner.png" width="100%" />
 </p>
-
+-->
 <!-- Animated Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Bhvnesh+👋;Tech+Learner+|+Automation+Enthusiast;Welcome+to+my+GitHub+Profile!" />
